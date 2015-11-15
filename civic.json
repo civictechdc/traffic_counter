@@ -1,0 +1,35 @@
+{
+    "conformsTo": "http://codefordc.org/resources/specification.html",
+    "status": "Alpha",
+    "thumbnailUrl": "",
+    "contact": {
+        "name": "Traffic Counter",
+        "email": "jgrimes@codeforamerica.org",
+        "twitter": "justgrimes"
+    },
+    "bornAt": "",
+    "geography": "Washington DC",
+    "politicalEntity": {
+        "": ""
+    },
+    "governmentPartner": {DDOT},
+    "communityPartner": {WABA?},
+    "type": "Hardware",
+    "data": {},
+    "needs": [],
+    "categories": [
+        {
+            "category": "civic hardware"
+        },
+        {
+            "category": "transportation"
+        },
+        {
+            "category": "urban planning"
+        },
+        {
+            "category": "arduino"
+        }
+    ],
+    "moreInfo": "http://issuu.com/shriya/docs/traffic_counter_guide"
+}
